@@ -1,0 +1,14 @@
+rhino:
+http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/A-G/black-rhino-yellow-grasses.jpg
+
+owl: 
+http://kids.nationalgeographic.com/content/dam/kids/photos/animals/Birds/A-G/GreatHornedOwl1.jpg.adapt.945.1.jpg
+
+gorilla:
+http://assets.worldwildlife.org/photos/1102/images/story_full_width/Gorillas_7.31.2012_Our_closest_cousins_HI_105193.jpg?1345537507
+
+Orca:
+http://www.defenders.org/sites/default/files/magaizine-spring-2016-orca-dave-ellifrit-center-for-whale-research-nmfs-permit-15569-dfo-sara-272_.jpg
+
+Elephant:
+https://upload.wikimedia.org/wikipedia/commons/6/63/African_elephant_warning_raised_trunk.jpg
