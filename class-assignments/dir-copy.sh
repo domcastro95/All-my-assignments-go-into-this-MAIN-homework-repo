@@ -1,5 +1,5 @@
 #! /bin/bash
-ls ­-la
+ls -la
 echo "Above are the directory listings for this folder"
 pwd
 echo "right now it is :"
