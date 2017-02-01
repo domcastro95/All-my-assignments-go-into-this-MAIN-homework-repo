@@ -101,3 +101,68 @@
  1621  ipython
  1622  history 100
 
+ 1980  cd scripts
+ 1981  ls
+ 1982  ls -l
+ 1983  ls -a
+ 1984  mv dir.sh ~/scripts/
+ 1985  ls
+ 1986  mv dir.sh ~/Desktop/scripts/
+ 1987  mv dir.sh ~/Desktop/scripts
+ 1988  ls
+ 1989  cd ..
+ 1990  cd Desktop/eeb-177/class-assignments/
+ 1991  ls
+ 1992  gedit dir.sh
+ 1993  ls
+ 1994  mv dir.sh ~/scripts/
+ 1995  ls
+ 1996  cd ~/scripts
+ 1997  ls
+ 1998  ls -l
+ 1999  chmod u+x
+ 2000  chmod u+x dir.sh 
+ 2001  ls -l
+ 2002  ls
+ 2003  history 25
+ 2004  history 25 >> ~/Desktop/eeb-177/class-assignments/classwork-Thurs-1-26.txt 
+ 2033  error: failed to push some refs to 'origin'ls
+ 2034  pwd
+ 2035  git init
+ 2036  git add README.txt
+ 2037  ls
+ 2038  gedit README.txt
+ 2039  ls
+ 2040  git add README.txt 
+ 2041  git commit -m "troubleshooting github repositories" 
+ 2042  git log
+ 2043  git push
+ 2044  git remote adderror: src refspec master does not match any.
+ 2045  git commit -m "initial commit"
+ 2046  git push origin master
+ 2047  ls
+ 2048  git status
+ 2049  git add hw-1-12-2017 hw-1-12-2017b.txt hw-1-12-2017c.txt hw-1-12-2017d.txt hw-1-12-2017e.txt week-2-hw-eeb174-copy.txt 
+ 2050  git push
+ 2051  git add hw-1-12-2017.txt hw-1-12-2017b.txt hw-1-12-2017c.txt hw-1-12-2017d.txt hw-1-12-2017e.txt week-2-hw-eeb174-copy.txt 
+ 2052  git commit -m "homework assignments"
+ 2053  git push
+ 2054  git remote addorigin error: src refspec master does not match any.
+ 2055  cd ~/scripts/
+ 2056  ls
+ 2057  ls -l
+ 2058  git init
+ 2059  ls -la
+ 2060  git add dir.sh 
+ 2061  git commit -m "script exercise"
+ 2062  git push
+ 2063  git remote add origin https://github.com/domcastro95/scripts.git
+ 2064  git push -u origin master
+ 2065  ls
+ 2066  git status
+ 2067  git add .bash_profile 
+ 2068  git commit -m "hidden file with pathway for scripts"
+ 2069  git push
+ 2070  ls
+ 2071  cd ..
+ 2072  history 40 >> ~/Desktop/eeb-177/class-assignments/classwork-Thurs-1-26.txt 
